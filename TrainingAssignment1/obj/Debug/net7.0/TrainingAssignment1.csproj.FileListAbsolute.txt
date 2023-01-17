@@ -1,0 +1,12 @@
+C:\Users\Formulatrix\RiderProjects\TrainingAsignment1\TrainingAssignment1\bin\Debug\net7.0\TrainingAssignment1.deps.json
+C:\Users\Formulatrix\RiderProjects\TrainingAsignment1\TrainingAssignment1\bin\Debug\net7.0\TrainingAssignment1.dll
+C:\Users\Formulatrix\RiderProjects\TrainingAsignment1\TrainingAssignment1\bin\Debug\net7.0\TrainingAssignment1.pdb
+C:\Users\Formulatrix\RiderProjects\TrainingAsignment1\TrainingAssignment1\obj\Debug\net7.0\TrainingAssignment1.csproj.AssemblyReference.cache
+C:\Users\Formulatrix\RiderProjects\TrainingAsignment1\TrainingAssignment1\obj\Debug\net7.0\TrainingAssignment1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Formulatrix\RiderProjects\TrainingAsignment1\TrainingAssignment1\obj\Debug\net7.0\TrainingAssignment1.AssemblyInfoInputs.cache
+C:\Users\Formulatrix\RiderProjects\TrainingAsignment1\TrainingAssignment1\obj\Debug\net7.0\TrainingAssignment1.AssemblyInfo.cs
+C:\Users\Formulatrix\RiderProjects\TrainingAsignment1\TrainingAssignment1\obj\Debug\net7.0\TrainingAssignment1.csproj.CoreCompileInputs.cache
+C:\Users\Formulatrix\RiderProjects\TrainingAsignment1\TrainingAssignment1\obj\Debug\net7.0\TrainingAssignment1.dll
+C:\Users\Formulatrix\RiderProjects\TrainingAsignment1\TrainingAssignment1\obj\Debug\net7.0\refint\TrainingAssignment1.dll
+C:\Users\Formulatrix\RiderProjects\TrainingAsignment1\TrainingAssignment1\obj\Debug\net7.0\TrainingAssignment1.pdb
+C:\Users\Formulatrix\RiderProjects\TrainingAsignment1\TrainingAssignment1\obj\Debug\net7.0\ref\TrainingAssignment1.dll
